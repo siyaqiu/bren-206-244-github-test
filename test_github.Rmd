@@ -1,5 +1,6 @@
 ---
 title: "ESM 206/244 GitHub Testing"
+author: Siya Qiu
 output: html_document
 ---
 
